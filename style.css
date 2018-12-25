@@ -1,0 +1,112 @@
+header {
+    background: #171727;
+}
+a.menu {
+    font-family: 'Staatliches', cursive;
+    float: right;
+    color:white;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-decoration: none;
+    font-size: 10px;
+    word-spacing: 10px;
+    border-left: 1px solid white;
+    padding: 7px;
+}
+img#headphoto {
+    float: left;
+    width: 100%;
+}
+body {
+    margin: 0%;
+}
+td.second {
+    width: 50%;
+    padding: 0%;
+    margin: 0%;
+}
+h1 {
+    margin: 0%;
+    font-family: 'Staatliches', cursive;
+    color: white;
+    text-transform: uppercase;
+    height: 100%;
+    font-size: 60px;
+    word-spacing: 1px;
+    letter-spacing: 20px;
+    word-wrap: break-word;
+    padding-left: 40px;
+}
+td {
+    padding: 0%;
+}
+div#banner {
+    float: right;
+    position: absolute;
+    margin-left: 60%;
+    width: 40%;
+}
+section {
+    background: black;
+    color: white;
+}
+p.section {
+    font-family: 'Thasadith', sans-serif;
+    margin: 0%;
+    padding: 10%;
+}
+img#bodyphoto {
+    float: left;
+    width: 50%;
+    padding: 20px;
+    padding-top: 0%;
+    padding-left: 0%;
+}
+p.section {
+    width: 50%;
+    padding: 0%;
+    float: right;
+    padding: 60px;
+}
+p.body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin: 30px;
+    color: grey;
+}
+img.kreska {
+    position: absolute;
+    width: 150px;
+    padding-left: 43%;
+    padding-top: 30%;
+}
+p.section-production {
+    font-family: 'Thasadith', sans-serif;
+    margin-left: 70%;
+    margin-top: 0%;
+}
+h2 {
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 200px;
+    font-size: 70px;
+    float: left;
+    margin-right: 0%;
+}
+td.third {
+    float: left;
+}
+td.fourth {
+    float: right;
+}
+.production-container {
+    display: table; /* Make the container element behave like a table */
+    width: 100%; /* Set full-width to expand the whole page */
+}
+.pr {
+    display: table-cell; /* Make elements inside the container behave like table cells */
+}
+p.section-history {
+    margin-right:80px;
+    margin-bottom: 80px;  
+}
